@@ -1,0 +1,10 @@
+Roll History:
+Roll 1: 3
+
+Roll Percentages:
+Number 1: 0.00%
+Number 2: 0.00%
+Number 3: 100.00%
+Number 4: 0.00%
+Number 5: 0.00%
+Number 6: 0.00%
